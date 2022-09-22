@@ -1,0 +1,9 @@
+.listSearch{
+    display: flex;
+    justify-content: center;
+}
+.listItem{
+    list-style: none;
+    line-height: 1.5;
+    font-family: "Times New Roman";
+}

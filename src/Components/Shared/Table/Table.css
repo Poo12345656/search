@@ -1,0 +1,23 @@
+.table{
+    border-collapse: collapse;
+    margin-left:28%;
+  width: 50%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  font-family: "Times New Roman";
+  
+}
+.table th, .table td{
+    text-align: left;
+  padding: 12px;
+} 
+.table tr{
+    border-bottom: 1px solid #ddd;
+
+}
+.table tr.header, .table tr:hover {
+    background-color: #f1f1f1;
+  }
+  .table tr:nth-child(even) {
+    background-color: #dddddd;
+  }

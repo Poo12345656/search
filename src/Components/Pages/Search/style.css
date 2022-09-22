@@ -1,0 +1,38 @@
+
+.searchFlied{
+    display: flex;
+    justify-content: center;
+    
+}
+.inputWrapper{
+    padding:10px 20px;
+}
+.inputFiled {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    margin-left:28%;
+  width: 49%;
+    background: #f1f1f1;
+    margin-bottom:2px;
+    position:relative;
+}
+.button {
+    position: absolute;
+    top: 44%;
+    left: 75%;
+    font-size: 25px;
+    border: none;
+}
+h1.secondHeading {
+    display: flex;
+    justify-content: center;
+    font-family: auto;
+    font-size: 38px;
+}
+
+
+
